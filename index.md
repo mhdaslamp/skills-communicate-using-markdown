@@ -6,4 +6,4 @@
 
 
 
-var myVar = "hey guyss!!";
+var myVar = "Hello, world!";
